@@ -1,4 +1,4 @@
-<p align="center"><img src="https://drive.google.com/file/d/0B-SMo2NurSTXNWtYcnBhQS1WRkFydUpib09IRnk5Z3ZKYWtJ/view?usp=sharing" width="400"></p>
+<p align="center"><img src="https://drive.google.com/file/d/0B-SMo2NurSTXNWtYcnBhQS1WRkFydUpib09IRnk5Z3ZKYWtJ/view?usp=sharing" ></p>
 
 
 ## Sobre Sited
